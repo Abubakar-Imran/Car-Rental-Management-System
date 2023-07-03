@@ -1,0 +1,55 @@
+{
+  "user_details": [
+  ],
+  "cars": [
+    {
+      "name": "SUZUKI ALTO",
+      "make": "2020",
+      "license_plate": "BZN-495",
+      "description": "Suzuki Alto offers a smooth and efficient ride, with a fuel-efficient engine and a spacious interior for all of your luggage and passenger needs.\n With features like air conditioning and a state-of-the-art sound system,\nit's the perfect vehicle for any journey.",
+      "link": "alto.jfif",
+      "rph": "10000"
+    },
+    {
+      "name": "TOYOTA COROLLA",
+      "make": "2023",
+      "license_plate": "ANM-216",
+      "description": "Toyota Corolla is equipped with all the features you need for a comfortable and convenient driving experience.\n From automatic transmission and power windows to air conditioning and a multimedia entertainment system,\n this car has it all.",
+      "link": "corolla.png",
+      "rph": "15000"
+    },
+    {
+      "name": "HONDA CITY",
+      "make": "2018",
+      "license_plate": "AZN-965",
+      "description": "Honda City is equipped with all the features you need for a smooth and convenient driving experience.\n From automatic transmission and power windows to air conditioning and a CD player,\n this car has it all.",
+      "link": "city.png",
+      "rph": "15000"
+    },
+    {
+      "name": "TOYOTA PRADO",
+      "make": "2019",
+      "license_plate": "ANN-699",
+      "description": "Prado is equipped with all the features you need for a comfortable and convenient driving experience.\n From fuel-efficient engines to state-of-the-art navigation systems, our cars have it all.\n Whether you're tackling busy city streets or hitting the open road, Prado has got you covered.",
+      "link": "prado.jpg",
+      "rph": "30000"
+    },
+    {
+      "name": "BUGATTI CHIRON",
+      "make": "2023",
+      "license_plate": "AYY-666",
+      "description": "Only for the TOP G's. This Bugatti is a dependable and stylish vehicle that can handle all of your transportation needs.\n With features like a fuel-efficient engine, automatic transmission, and air conditioning, you'll be able\n to enjoy a comfortable and convenient driving experience.",
+      "link": "tate.jpg",
+      "rph": "100000"
+    },
+    {
+      "name": "BMW M5",
+      "make": "2017",
+      "license_plate": "AZF-908",
+      "description": "BMW M5 satisfies the need for speed without compromising driving control and safety; \neach model comes with top-of-the-line brake and traction systems.With a spacious trunk and comfortable seating for up to five passengers,\n it's the perfect choice for road trips and city adventures.",
+      "link": "bmw.jpg",
+      "rph": "60000"
+    }
+  ],
+  "cars_in_use": []
+}
